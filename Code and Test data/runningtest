@@ -1,0 +1,2 @@
+#!/bin/sh
+touch foo.in bar.in; for file in *.in; do ./TheSir <"$file" >"${file%.in}c.out"; done; echo *
