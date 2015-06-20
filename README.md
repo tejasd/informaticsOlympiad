@@ -1,4 +1,4 @@
-# informaticsOlympiad
+# Informatics Olympiad practice
 Indian National Olympiad for Informatics  and Training Camp
 
 These are my solutions to some of the practice problems I solved when training for Indian National Olympiad in Informatics
